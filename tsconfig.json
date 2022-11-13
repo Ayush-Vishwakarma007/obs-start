@@ -18,7 +18,13 @@
     ]
   },
   "angularCompilerOptions": {
+<<<<<<< HEAD
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
   }
 }
+=======
+    "enableI18nLegacyMessageIdFormat": false
+  }
+}
+>>>>>>> refs/remotes/origin/main
